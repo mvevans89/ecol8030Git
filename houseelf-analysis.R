@@ -9,3 +9,5 @@ calcGC <- function(sequence){
 }
 
 calcGC(ears$dnaseq[1])
+
+#Now I'm broken

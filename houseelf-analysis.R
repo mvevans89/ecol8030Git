@@ -9,3 +9,5 @@ calcGC <- function(sequence){
 }
 
 calcGC(ears$dnaseq[1])
+
+test <- calcGC(ears$dnaseq[3])

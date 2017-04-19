@@ -14,5 +14,9 @@ calcGC(ears$dnaseq[1])
 test <- calcGC(ears$dnaseq[3])
 
 
-whatcanido <- function (){print("ANYTHING!")}
+whatcanido <- function ()print("ANYTHING!")
 whatcanido()
+
+
+
+	

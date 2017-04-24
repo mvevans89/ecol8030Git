@@ -10,10 +10,7 @@ calcGC <- function(sequence){
 
 calcGC(ears$dnaseq[1])
 
-
 test <- calcGC(ears$dnaseq[3])
-
-# I CAN DO ANYTHING!!
 
 #I plot ear length
 pdf("figures/reniplots.pdf")

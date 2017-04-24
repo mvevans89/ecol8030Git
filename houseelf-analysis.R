@@ -12,6 +12,3 @@ calcGC(ears$dnaseq[1])
 
 
 test <- calcGC(ears$dnaseq[3])
-
-# I CAN DO ANYTHING!!
-# but it only affects me!
